@@ -216,3 +216,7 @@ footer{
     margin-top: 210px;
     background-color: #ffffff;
 }
+
+a:hover{
+    text-decoration: underline;
+}
